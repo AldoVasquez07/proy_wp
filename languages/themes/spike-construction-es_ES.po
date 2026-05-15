@@ -1,0 +1,617 @@
+# Translation of Themes - Spike Construction in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Spike Construction package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-11-22 11:13:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Spike Construction\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Spike Construction"
+msgstr "Spike Construction"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarios"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full width"
+msgstr "Ancho completo"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Vacío"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr "XX grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr "X grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr "X pequeño"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Small"
+msgstr "XX pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr "XXXX grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr "XXX grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr "XX grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr "X grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr "X pequeño"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json styles/dark.json
+msgctxt "Duotone name"
+msgid "Light"
+msgstr "Claro"
+
+#: theme.json styles/dark.json
+msgctxt "Duotone name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/dark.json
+msgctxt "Duotone name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json styles/dark.json
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Pure Black"
+msgstr "Negro puro"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Pure White"
+msgstr "Blanco puro"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr "Heredado"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr "Color actual"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "Transparente"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Neutral"
+msgstr "Neutral"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Outline"
+msgstr "Contorno"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Light"
+msgstr "Claro"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Surface"
+msgstr "Superficie"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Body"
+msgstr "Cuerpo"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Highlight"
+msgstr "Resaltado"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr "Encabezado"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Secondary Accent Text"
+msgstr "Texto con énfasis secundario"
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Secondary Accent"
+msgstr "Énfasis secundario"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Accent Text"
+msgstr "Texto enfatizado"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Énfasis"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/dark.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr "Oscuro"
+
+#: patterns/template-single.php
+msgctxt "Pattern title"
+msgid "Template Single"
+msgstr "Plantilla individual"
+
+#: patterns/template-search.php:45
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr "Lo siento, pero nada coincidió con tus términos de búsqueda. ¿Intentas otra búsqueda?"
+
+#: patterns/template-search.php:27
+msgid "."
+msgstr "."
+
+#: patterns/template-search.php
+msgctxt "Pattern title"
+msgid "Template Search"
+msgstr "Plantilla de búsqueda"
+
+#: patterns/template-page.php
+msgctxt "Pattern title"
+msgid "Template Page"
+msgstr "Plantilla de página"
+
+#: patterns/template-index.php
+msgctxt "Pattern title"
+msgid "Template Index"
+msgstr "Plantilla de índice"
+
+#: patterns/template-full-width.php
+msgctxt "Pattern title"
+msgid "Template Full Width"
+msgstr "Plantilla de ancho completo"
+
+#: patterns/template-archive.php
+msgctxt "Pattern title"
+msgid "Template Archive"
+msgstr "Plantilla de archivo"
+
+#: patterns/template-404.php:19
+msgid "This page could not be found. Maybe try a search?"
+msgstr "No se pudo encontrar esta página. ¿Quieres probar una búsqueda?"
+
+#: patterns/template-404.php
+msgctxt "Pattern title"
+msgid "Template 404"
+msgstr "Plantilla 404"
+
+#: patterns/service.php:77
+msgid "Lo rem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellusluct."
+msgstr "Lo rem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellusluct."
+
+#: patterns/service.php:48
+msgid "RENOVATION"
+msgstr "RENOVACIÓN"
+
+#: patterns/service.php:34 patterns/service.php:58 patterns/service.php:82
+msgid "Read More"
+msgstr "Leer más"
+
+#: patterns/service.php:29 patterns/service.php:53
+msgid "Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellusluct."
+msgstr "Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellusluct."
+
+#: patterns/service.php:24
+msgid "CONSTRUCTION"
+msgstr "CONSTRUCCIÓN"
+
+#: patterns/service.php
+msgctxt "Pattern title"
+msgid "Service"
+msgstr "Servicio"
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr "Archivo"
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr "Barra lateral principal"
+
+#: patterns/latest-posts.php
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr "Inicio"
+
+#: patterns/hero-banner.php:31
+msgid "CONTACT US"
+msgstr "CONTACTA CON NOSOTROS"
+
+#: patterns/hero-banner.php:22
+msgid "Donec sed odio dui. Sed posuere consectetur est at lobortis. Praesent commodo cursus magna, vel scelerisque nis."
+msgstr "Donec sed odio dui. Sed posuere consectetur est at lobortis. Praesent commodo cursus magna, vel scelerisque nis."
+
+#: patterns/hero-banner.php:18
+msgid "SPECIALIZATION IN SITES CONSTRUCTION"
+msgstr "ESPECIALIZACIÓN EN CONSTRUCCIÓN DE SITIOS"
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr "Banner de la sección destacada"
+
+#: patterns/header.php:28
+msgid "GET A QUOTE"
+msgstr "PIDE UN PRESUPUESTO"
+
+#: patterns/header.php:23
+msgid "Contact"
+msgstr "Contacto"
+
+#: patterns/header.php:22
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/header.php:21
+msgid "Services"
+msgstr "Servicios"
+
+#: patterns/header.php:20
+msgid "About"
+msgstr "Acerca de"
+
+#: patterns/header.php:19
+msgid "Home"
+msgstr "Inicio"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Cabecera"
+
+#: patterns/gallery.php:72
+msgid "FLOORING TILES"
+msgstr "PAVIMENTOS"
+
+#: patterns/gallery.php:52
+msgid "MODERN EQUIPMENT"
+msgstr "EQUIPAMIENTO MODERNO"
+
+#: patterns/gallery.php:38 patterns/service.php:72
+msgid "MEASUREMENT"
+msgstr "MEDICIÓN"
+
+#: patterns/gallery.php
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr "Galería"
+
+#: patterns/footer.php:67
+msgid "All rights reserved"
+msgstr "Todos los derechos reservados"
+
+#: patterns/footer.php:61
+msgid "© 2024."
+msgstr "© 2024."
+
+#: patterns/footer.php:53
+msgid "JOIN US NOW"
+msgstr "ÚNETE A NOSOTROS AHORA"
+
+#: patterns/footer.php:48
+msgid "Please subscribe to our newsletter to get all the great Offers"
+msgstr "Suscríbete a nuestro boletín para recibir todas las grandes ofertas"
+
+#: patterns/footer.php:44
+msgid "OUR Newsletter"
+msgstr "NUESTRO boletín"
+
+#: patterns/footer.php:36
+msgid "Company"
+msgstr "Empresa"
+
+#: patterns/footer.php:28
+msgid "Products"
+msgstr "Productos"
+
+#: patterns/footer.php:22
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium aliquet, fames quo repudiandae."
+msgstr "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium aliquet, fames quo repudiandae."
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: patterns/counter.php:74
+msgid "800"
+msgstr "800"
+
+#: patterns/counter.php:58
+msgid "97%"
+msgstr "97%"
+
+#: patterns/counter.php:42
+msgid "90k+"
+msgstr "Más de 90 mil"
+
+#: patterns/counter.php:30
+msgid "Completed Project"
+msgstr "Proyecto completado"
+
+#: patterns/counter.php:26
+msgid "10k+"
+msgstr "Más de 10 mil"
+
+#: patterns/counter.php
+msgctxt "Pattern title"
+msgid "Counter"
+msgstr "Contador"
+
+#: patterns/about.php:120 patterns/hero-banner.php:27
+msgid "LEARN MORE"
+msgstr "APRENDE MÁS"
+
+#: patterns/about.php:115
+msgid "Fames veniam tempus possimus potenti animi earum voluptatibus fugit et? Sit et. Velit ut aliqua."
+msgstr "Fames veniam tempus possimus potenti animi earum voluptatibus fugit et? Sit et. Velit ut aliqua."
+
+#: patterns/about.php:109
+msgid "YEARS OF EXPERIENCE"
+msgstr "AÑOS DE EXPERIENCIA"
+
+#: patterns/about.php:105
+msgid "25+"
+msgstr "Más de 25"
+
+#: patterns/about.php:82
+msgid "Marketing Manager"
+msgstr "Gerente del marketing"
+
+#: patterns/about.php:78
+msgid "Benjamin Miller"
+msgstr "Benjamin Miller"
+
+#: patterns/about.php:64
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+#: patterns/about.php:60
+msgid "+92 666 888 0000"
+msgstr "+92 666 888 0000"
+
+#: patterns/about.php:36 patterns/about.php:46
+msgid "Unde consequatur ducimus nullam"
+msgstr "Unde consequatur ducimus nullam"
+
+#: patterns/about.php:26
+msgid "Unde consequatur ducimus nullam. Sem viverra sint class est laoreet posuere! Velit quam hymenaeos perspiciatis, netus! Hic rerum cumque."
+msgstr "Unde consequatur ducimus nullam. Sem viverra sint class est laoreet posuere! Velit quam hymenaeos perspiciatis, netus! Hic rerum cumque."
+
+#: patterns/about.php:22
+msgid "WE ARE THE LEADERSHIP IN THE CONSTRUCTION!"
+msgstr "¡SOMOS LOS LÍDERES EN LA CONSTRUCCIÓN!"
+
+#: patterns/about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr "Acerca de"
+
+#: inc/admin/info.php:136
+msgid "Buy Pro"
+msgstr "Compra Pro"
+
+#: inc/admin/info.php:129
+msgid "Spike Construction Pro offers more features and enhances your experience!"
+msgstr "¡«Spike Construction Pro» ofrece más características y mejora tu experiencia!"
+
+#: inc/admin/info.php:126
+msgid "Welcome to %s - "
+msgstr "Te damos la bienvenida a %s - "
+
+#: inc/admin/info.php:44
+msgid "Spike Construction Theme"
+msgstr "Spike Construction Theme"
+
+#: inc/admin/info.php:36
+msgid " Info"
+msgstr " Info"
+
+#: functions.php:179
+msgid "Secondary"
+msgstr "Secundario"
+
+#: functions.php:147 functions.php:154 functions.php:162 functions.php:170
+msgid "Box Shadow on Hover"
+msgstr "Sombra de caja al pasar el cursor"
+
+#: functions.php:119
+msgid "Box Shadow Larger"
+msgstr "Sombra de caja más grande"
+
+#: functions.php:97 functions.php:140
+msgid "Box Shadow Large"
+msgstr "Sombra de caja grande"
+
+#: functions.php:90 functions.php:112 functions.php:133
+msgid "Box Shadow Medium"
+msgstr "Sombra de caja media"
+
+#: functions.php:75 functions.php:83 functions.php:105 functions.php:126
+msgid "Box Shadow"
+msgstr "Sombra de la caja"
+
+#: patterns/latest-posts.php:17
+msgid "OUR COMPLETE ACTIVITIES"
+msgstr "NUESTRAS ACTIVIDADES COMPLETAS"
+
+#: patterns/gallery.php:25
+msgid "OUR COMPLETE PROJECTS"
+msgstr "NUESTROS PROYECTOS COMPLETOS"
+
+#: patterns/counter.php:78
+msgid "Active Project"
+msgstr "Proyecto activo"
+
+#: patterns/counter.php:62
+msgid "Approval Rate"
+msgstr "Tasa de aprobación"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://kortezthemes.com"
+msgstr "https://kortezthemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "kortezthemes"
+msgstr "kortezthemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://kortezthemes.com/spike-construction/"
+msgstr "https://kortezthemes.com/spike-construction/"

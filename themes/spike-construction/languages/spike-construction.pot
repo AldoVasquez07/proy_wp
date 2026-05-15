@@ -1,0 +1,303 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-05 16:52+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:75 functions.php:83 functions.php:105 functions.php:126
+msgid "Box Shadow"
+msgstr ""
+
+#: functions.php:90 functions.php:112 functions.php:133
+msgid "Box Shadow Medium"
+msgstr ""
+
+#: functions.php:97 functions.php:140
+msgid "Box Shadow Large"
+msgstr ""
+
+#: functions.php:119
+msgid "Box Shadow Larger"
+msgstr ""
+
+#: functions.php:147 functions.php:154 functions.php:162 functions.php:170
+msgid "Box Shadow on Hover"
+msgstr ""
+
+#: functions.php:179
+msgid "Secondary"
+msgstr ""
+
+#: inc/admin/info.php:36
+msgid " Info"
+msgstr ""
+
+#: inc/admin/info.php:44
+msgid "Spike Construction Theme"
+msgstr ""
+
+#: inc/admin/info.php:126
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#: inc/admin/info.php:129
+msgid ""
+"Spike Construction Pro offers more features and enhances your experience!"
+msgstr ""
+
+#: inc/admin/info.php:136
+msgid "Buy Pro"
+msgstr ""
+
+#: patterns/about.php:22
+msgid "WE ARE THE LEADERSHIP IN THE CONSTRUCTION!"
+msgstr ""
+
+#: patterns/about.php:26
+msgid ""
+"Unde consequatur ducimus nullam. Sem viverra sint class est laoreet posuere! "
+"Velit quam hymenaeos perspiciatis, netus! Hic rerum cumque."
+msgstr ""
+
+#: patterns/about.php:36 patterns/about.php:46
+msgid "Unde consequatur ducimus nullam"
+msgstr ""
+
+#: patterns/about.php:60
+msgid "+92 666 888 0000"
+msgstr ""
+
+#: patterns/about.php:64
+msgid "Need Help?"
+msgstr ""
+
+#: patterns/about.php:78
+msgid "Benjamin Miller"
+msgstr ""
+
+#: patterns/about.php:82
+msgid "Marketing Manager"
+msgstr ""
+
+#: patterns/about.php:105
+msgid "25+"
+msgstr ""
+
+#: patterns/about.php:109
+msgid "YEARS OF EXPERIENCE"
+msgstr ""
+
+#: patterns/about.php:115
+msgid ""
+"Fames veniam tempus possimus potenti animi earum voluptatibus fugit et? Sit "
+"et. Velit ut aliqua."
+msgstr ""
+
+#: patterns/about.php:120 patterns/hero-banner.php:27
+msgid "LEARN MORE"
+msgstr ""
+
+#: patterns/counter.php:26
+msgid "10k+"
+msgstr ""
+
+#: patterns/counter.php:30
+msgid "Completed Project"
+msgstr ""
+
+#: patterns/counter.php:42
+msgid "90k+"
+msgstr ""
+
+#: patterns/counter.php:46
+msgid "Experience Team"
+msgstr ""
+
+#: patterns/counter.php:58
+msgid "97%"
+msgstr ""
+
+#: patterns/counter.php:62
+msgid "Approval Rate"
+msgstr ""
+
+#: patterns/counter.php:74
+msgid "800"
+msgstr ""
+
+#: patterns/counter.php:78
+msgid "Active Project"
+msgstr ""
+
+#: patterns/footer.php:22
+msgid ""
+"Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat "
+"lorem lacinia sagittis non pretium aliquet, fames quo repudiandae."
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "OUR Newsletter"
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Please subscribe to our newsletter to get all the great Offers"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "JOIN US NOW"
+msgstr ""
+
+#: patterns/footer.php:61
+msgid "© 2024."
+msgstr ""
+
+#: patterns/footer.php:67
+msgid "All rights reserved"
+msgstr ""
+
+#: patterns/gallery.php:25
+msgid "OUR COMPLETE PROJECTS"
+msgstr ""
+
+#: patterns/gallery.php:38 patterns/service.php:72
+msgid "MEASUREMENT"
+msgstr ""
+
+#: patterns/gallery.php:44
+msgid "ANALYZING PROJECTS"
+msgstr ""
+
+#: patterns/gallery.php:52
+msgid "MODERN EQUIPMENT"
+msgstr ""
+
+#: patterns/gallery.php:58
+msgid "DISCUSSING PROJECT"
+msgstr ""
+
+#: patterns/gallery.php:66
+msgid "CONSULTING PROJECTS"
+msgstr ""
+
+#: patterns/gallery.php:72
+msgid "FLOORING TILES"
+msgstr ""
+
+#: patterns/header.php:19
+msgid "Home"
+msgstr ""
+
+#: patterns/header.php:20
+msgid "About"
+msgstr ""
+
+#: patterns/header.php:21
+msgid "Services"
+msgstr ""
+
+#: patterns/header.php:22
+msgid "Blog"
+msgstr ""
+
+#: patterns/header.php:23
+msgid "Contact"
+msgstr ""
+
+#: patterns/header.php:28
+msgid "GET A QUOTE"
+msgstr ""
+
+#: patterns/hero-banner.php:18
+msgid "SPECIALIZATION IN SITES CONSTRUCTION"
+msgstr ""
+
+#: patterns/hero-banner.php:22
+msgid ""
+"Donec sed odio dui. Sed posuere consectetur est at lobortis. Praesent "
+"commodo cursus magna, vel scelerisque nis."
+msgstr ""
+
+#: patterns/hero-banner.php:31
+msgid "CONTACT US"
+msgstr ""
+
+#: patterns/latest-posts.php:17
+msgid "OUR COMPLETE ACTIVITIES"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr ""
+
+#: patterns/service.php:24
+msgid "CONSTRUCTION"
+msgstr ""
+
+#: patterns/service.php:29 patterns/service.php:53
+msgid ""
+"Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit tellusluct."
+msgstr ""
+
+#: patterns/service.php:34 patterns/service.php:58 patterns/service.php:82
+msgid "Read More"
+msgstr ""
+
+#: patterns/service.php:48
+msgid "RENOVATION"
+msgstr ""
+
+#: patterns/service.php:77
+msgid ""
+"Lo rem ipsum dolor sit amet, consec tetur adipiscing elit. Ut elit "
+"tellusluct."
+msgstr ""
+
+#: patterns/template-404.php:19
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-search.php:27
+msgid "."
+msgstr ""
+
+#: patterns/template-search.php:45
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""

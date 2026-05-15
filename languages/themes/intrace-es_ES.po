@@ -1,0 +1,255 @@
+# Translation of Themes - Intrace in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Intrace package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-05-07 15:39:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Intrace\n"
+
+#. Theme Name of the theme
+#: style.css inc/class/class-init.php:2045
+#, gp-priority: high
+msgid "Intrace"
+msgstr "Intrace"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank canvas"
+msgstr "Lienzo en blanco"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 6"
+msgstr "Encabezado 6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 5"
+msgstr "Encabezado 5"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 4"
+msgstr "Encabezado 4"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr "Encabezado 3"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr "Encabezado 2"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr "Encabezado 1"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1 Alt"
+msgstr "Encabezado 1 Alt"
+
+#: inc/patterns/intrace-gutenverse-home-pricing.php:6
+msgid "Gutenverse Home Pricing"
+msgstr "Gutenverse Precios de inicio"
+
+#: inc/patterns/intrace-gutenverse-home-feature-2.php:6
+#: inc/patterns/intrace-gutenverse-home-feature.php:6
+msgid "Gutenverse Home Feature"
+msgstr "Gutenverse característica de inicio"
+
+#: inc/patterns/intrace-gutenverse-home-services-2.php:6
+msgid "Gutenverse Home Services 2"
+msgstr "Gutenverse Portada Servicios 2"
+
+#: inc/patterns/intrace-gutenverse-home-funfact.php:6
+msgid "Gutenverse Home Fun Fact"
+msgstr "Gutenverse Portada Hecho gracioso"
+
+#: inc/patterns/intrace-gutenverse-home-cta.php:6
+msgid "Gutenverse Home CTA"
+msgstr "Gutenverse Portada CTA"
+
+#: inc/patterns/intrace-gutenverse-home-about-2.php:6
+msgid "Gutenverse Home About 2"
+msgstr "Gutenverso Portada acerca de 2"
+
+#: inc/patterns/intrace-gutenverse-archive-cta.php:6
+msgid "Gutenverse Archive CTA"
+msgstr "Gutenverse Archivo CTA"
+
+#: inc/patterns/intrace-gutenverse-search-hero.php:6
+msgid "Gutenverse Search Hero"
+msgstr "Gutenverse Hero de la Búsqueda"
+
+#: inc/patterns/intrace-gutenverse-page-hero.php:6
+msgid "Gutenverse Page Hero"
+msgstr "Gutenverse Hero de página"
+
+#: inc/patterns/intrace-gutenverse-index-hero.php:6
+msgid "Gutenverse Index Hero"
+msgstr "Gutenverse Hero de índice"
+
+#: inc/patterns/intrace-gutenverse-archive-hero.php:6
+msgid "Gutenverse Archive Hero"
+msgstr "Gutenverse Hero de archivo"
+
+#: inc/patterns/intrace-gutenverse-404-hero.php:6
+msgid "Gutenverse 404 Hero"
+msgstr "Gutenverse Hero de 404"
+
+#: inc/patterns/intrace-gutenverse-single-post-hero.php:6
+msgid "Gutenverse Single Post Hero"
+msgstr "Gutenverse Entrada individual Hero"
+
+#: inc/class/class-init.php:2056
+msgid "Gutenverse Plugin Installed"
+msgstr "Plugin Gutenverse instalado"
+
+#: inc/patterns/intrace-core-search-hero.php:6
+msgid "Core Search Hero"
+msgstr "Núcleo Búsqueda Hero"
+
+#: inc/patterns/intrace-core-index-services.php:6
+msgid "Core Home Services"
+msgstr "Núcleo Portada Servicios"
+
+#: inc/patterns/intrace-core-index-pricing.php:6
+msgid "Core Home Pricing"
+msgstr "Núcleo Portada Precios"
+
+#: inc/patterns/intrace-core-index-hero.php:6
+msgid "Core Home Hero"
+msgstr "Núcleo Portada Hero"
+
+#: inc/patterns/intrace-core-archive-hero.php:6
+msgid "Core Archive Hero"
+msgstr "Núcleo Archivo Hero"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Acento"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr "Borde"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Heebo"
+msgstr "Heebo"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: inc/patterns/intrace-gutenverse-header.php:6
+msgid "Gutenverse Header"
+msgstr "Gutenverse Cabecera"
+
+#: inc/patterns/intrace-gutenverse-footer.php:6
+msgid "Gutenverse Footer"
+msgstr "Gutenverse Pie de página"
+
+#: inc/class/class-init.php:2054
+msgid "Install Gutenverse Plugin"
+msgstr "Instalar el plugin Gutenverse"
+
+#: inc/class/class-init.php:2055
+msgid "Activate Gutenverse Plugin"
+msgstr "Activar el plugin Gutenverse"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr "Lato"
+
+#: inc/patterns/intrace-gutenverse-home-hero.php:6
+msgid "Gutenverse Home Hero"
+msgstr "Gutenverse Portada Hero"
+
+#: inc/patterns/intrace-gutenverse-home-client-logo.php:6
+msgid "Gutenverse Home Client Logo"
+msgstr "Gutenverse Portada Logo de cliente"
+
+#: inc/patterns/intrace-core-index-services-2.php:6
+msgid "Core Home Services 2"
+msgstr "Núcleo Portada Servicios 2"
+
+#: inc/patterns/intrace-core-index-hero-2.php:6
+msgid "Core Index Hero"
+msgstr "Núcleo Índice Hero"
+
+#: inc/patterns/intrace-core-index-group-2.php:6
+msgid "Core Index Group"
+msgstr "Núcleo Índice Grupo"
+
+#: inc/patterns/intrace-core-index-client-logo.php:6
+msgid "Core Index Client Logo"
+msgstr "Núcleo Índice Logo de cliente"
+
+#: inc/patterns/intrace-core-index-about.php:6
+msgid "Core Index About"
+msgstr "Núcleo Índice Acerca de"
+
+#: inc/patterns/intrace-core-hero-single-post.php:6
+msgid "Core Single Post Hero"
+msgstr "Núcleo Entrada individual hero"
+
+#: inc/patterns/intrace-core-hero-page.php:6
+msgid "Core Page Hero"
+msgstr "Núcleo Página Hero"
+
+#: inc/patterns/intrace-core-hero-page-not-found.php:6
+msgid "Core 404 Hero"
+msgstr "Núcleo 404 Hero"
+
+#: inc/patterns/intrace-core-header.php:6
+msgid "Core Header"
+msgstr "Núcleo Cabecera"
+
+#: inc/patterns/intrace-core-footer.php:6
+msgid "Core Footer"
+msgstr "Núcleo Pie de página"
+
+#: inc/class/class-block-patterns.php:61
+msgid "Intrace Gutenverse Patterns"
+msgstr "Patrones de Intrace de Gutenverse"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Jegstudio"
+msgstr "Jegstudio"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://gutenverse.com/"
+msgstr "https://gutenverse.com/"

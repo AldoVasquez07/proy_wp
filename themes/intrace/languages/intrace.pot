@@ -1,0 +1,514 @@
+# Copyright (C) 2026 Jegstudio
+# This file is distributed under the GNU General Public License v3 or later..
+msgid ""
+msgstr ""
+"Project-Id-Version: Intrace 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/intrace-8NtdfhEVwneW\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-05-07T05:52:26+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: intrace\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/class/class-init.php:2045
+msgid "Intrace"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://gutenverse.com/themes/intrace/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+#: inc/class/class-init.php:2046
+msgid "Intrace is an Interior Designer, Architecture, Real Estate and Furniture Designer WordPress Block Theme crafted for professionals who want to build a modern and visually refined website. Built with full site editing and powered by Gutenverse, this theme provides a flexible and elegant platform to showcase portfolios, property listings, and design projects with a clean and professional layout. Whether you are running a design studio or managing property projects, Intrace helps you present your work with clarity and style. It is ideal for interior designers, architects, real estate agencies, furniture designers, and property developers looking to establish a strong online presence. With responsive layouts, customizable block patterns, and well-structured pages, you can easily highlight portfolios, services, listings, and client testimonials. Optimized for performance and usability, Intrace enables you to create a professional website that reflects your brand identity and expertise in Interior Designer, Architecture, Real Estate and Furniture Designer services. If you need a scalable and elegant solution, Intrace is a reliable Interior Designer, Architecture, Real Estate and Furniture Designer WordPress theme to grow your business online."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Jegstudio"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://gutenverse.com/"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:57
+msgid "Intrace Core Patterns"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:61
+msgid "Intrace Gutenverse Patterns"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:62
+msgid "Intrace Gutenverse PRO Patterns"
+msgstr ""
+
+#: inc/class/class-init.php:2047
+msgid "Plugin Requirement"
+msgstr ""
+
+#: inc/class/class-init.php:2048
+msgid "This theme require some plugins. Please make sure all the plugin below are installed and activated."
+msgstr ""
+
+#: inc/class/class-init.php:2054
+msgid "Install Gutenverse Plugin"
+msgstr ""
+
+#: inc/class/class-init.php:2055
+msgid "Activate Gutenverse Plugin"
+msgstr ""
+
+#: inc/class/class-init.php:2056
+msgid "Gutenverse Plugin Installed"
+msgstr ""
+
+#: inc/class/class-init.php:2070
+#: inc/class/class-plugin-notice.php:90
+msgid "Gutenverse &#8211; Ultimate WordPress FSE Blocks Addons &amp; Ecosystem"
+msgstr ""
+
+#: inc/class/class-init.php:2071
+#: inc/class/class-plugin-notice.php:91
+msgid "GUTENVERSE – GUTENBERG BLOCKS AND WEBSITE BUILDER FOR SITE EDITOR, TEMPLATE LIBRARY, POPUP BUILDER, ADVANCED ANIMATION EFFECTS, COMPLETE FEATURE ECOSYSTEM, 45+ FREE USER-FRIENDLY BLOCKS"
+msgstr ""
+
+#: inc/class/class-init.php:2084
+#: inc/class/class-plugin-notice.php:104
+msgid "Gutenverse Companion"
+msgstr ""
+
+#: inc/class/class-init.php:2085
+#: inc/class/class-plugin-notice.php:105
+msgid "A companion plugin designed specifically to enhance and extend the functionality of Gutenverse base themes. This plugin integrates seamlessly with the base themes, providing additional features, customization options, and advanced tools to optimize the overall user experience and streamline the development process."
+msgstr ""
+
+#: inc/class/class-init.php:2111
+msgid "Intrance PRO"
+msgstr ""
+
+#: inc/class/class-init.php:2174
+msgid "You don't have any demo activated"
+msgstr ""
+
+#: inc/class/class-init.php:2242
+#: inc/class/class-init.php:2244
+#: inc/class/class-init.php:2245
+msgid "unknown"
+msgstr ""
+
+#: inc/class/class-init.php:2247
+msgid "by"
+msgstr ""
+
+#: inc/class/class-init.php:2269
+#: inc/class/class-init.php:2270
+msgid "Intrace Dashboard"
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:334
+msgid "Installing..."
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:374
+msgid "Install Failed, Try Again"
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:388
+msgid "Thank you For Installing Intrace Theme"
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:390
+msgid "Unlock the full potential of your website with the recommended plugins."
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:392
+msgid "Activate it to explore exclusive extensions, ready-to-use demo templates, and powerful features that make building your site easier and more enjoyable."
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:396
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/class/class-plugin-notice.php:400
+msgid "Don\\'t refresh the page when installing recommended plugins"
+msgstr ""
+
+#: inc/patterns/intrace-core-archive-hero.php:6
+msgid "Core Archive Hero"
+msgstr ""
+
+#: inc/patterns/intrace-core-footer.php:6
+msgid "Core Footer"
+msgstr ""
+
+#: inc/patterns/intrace-core-header.php:6
+msgid "Core Header"
+msgstr ""
+
+#: inc/patterns/intrace-core-hero-page-not-found.php:6
+msgid "Core 404 Hero"
+msgstr ""
+
+#: inc/patterns/intrace-core-hero-page.php:6
+msgid "Core Page Hero"
+msgstr ""
+
+#: inc/patterns/intrace-core-hero-single-post.php:6
+msgid "Core Single Post Hero"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-about.php:6
+msgid "Core Index About"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-client-logo.php:6
+msgid "Core Index Client Logo"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-group-2.php:6
+msgid "Core Index Group"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-hero-2.php:6
+msgid "Core Index Hero"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-hero.php:6
+msgid "Core Home Hero"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-pricing.php:6
+msgid "Core Home Pricing"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-services-2.php:6
+msgid "Core Home Services 2"
+msgstr ""
+
+#: inc/patterns/intrace-core-index-services.php:6
+msgid "Core Home Services"
+msgstr ""
+
+#: inc/patterns/intrace-core-search-hero.php:6
+msgid "Core Search Hero"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-404-hero.php:6
+msgid "Gutenverse 404 Hero"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-archive-cta.php:6
+msgid "Gutenverse Archive CTA"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-archive-hero.php:6
+msgid "Gutenverse Archive Hero"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-footer.php:6
+msgid "Gutenverse Footer"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-header.php:6
+msgid "Gutenverse Header"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-about-2.php:6
+msgid "Gutenverse Home About 2"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-client-logo.php:6
+msgid "Gutenverse Home Client Logo"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-cta.php:6
+msgid "Gutenverse Home CTA"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-feature-2.php:6
+#: inc/patterns/intrace-gutenverse-home-feature.php:6
+msgid "Gutenverse Home Feature"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-funfact.php:6
+msgid "Gutenverse Home Fun Fact"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-hero.php:6
+msgid "Gutenverse Home Hero"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-pricing.php:6
+msgid "Gutenverse Home Pricing"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-home-services-2.php:6
+msgid "Gutenverse Home Services 2"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-index-hero.php:6
+msgid "Gutenverse Index Hero"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-page-hero.php:6
+msgid "Gutenverse Page Hero"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-search-hero.php:6
+msgid "Gutenverse Search Hero"
+msgstr ""
+
+#: inc/patterns/intrace-gutenverse-single-post-hero.php:6
+msgid "Gutenverse Single Post Hero"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank canvas"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text 2 (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border 2 (Legacy)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Input"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Accent Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border Input"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Placeholder"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Heebo"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1 Alt"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 4"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 5"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 6"
+msgstr ""

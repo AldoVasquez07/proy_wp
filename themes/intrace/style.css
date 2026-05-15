@@ -1,0 +1,24 @@
+/*
+Theme Name: Intrace
+Description: Intrace is an Interior Designer, Architecture, Real Estate and Furniture Designer WordPress Block Theme crafted for professionals who want to build a modern and visually refined website. Built with full site editing and powered by Gutenverse, this theme provides a flexible and elegant platform to showcase portfolios, property listings, and design projects with a clean and professional layout. Whether you are running a design studio or managing property projects, Intrace helps you present your work with clarity and style. It is ideal for interior designers, architects, real estate agencies, furniture designers, and property developers looking to establish a strong online presence. With responsive layouts, customizable block patterns, and well-structured pages, you can easily highlight portfolios, services, listings, and client testimonials. Optimized for performance and usability, Intrace enables you to create a professional website that reflects your brand identity and expertise in Interior Designer, Architecture, Real Estate and Furniture Designer services. If you need a scalable and elegant solution, Intrace is a reliable Interior Designer, Architecture, Real Estate and Furniture Designer WordPress theme to grow your business online.
+Author: Jegstudio
+Author URI: https://gutenverse.com/
+Theme URI: https://gutenverse.com/themes/intrace/
+Version: 1.2.1
+Stable tag: 1.2.1
+Requires at least: 6.5
+Tested up to: 6.9
+Requires PHP: 7.0
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: intrace
+Domain Path: /languages
+Tags: block-styles,custom-colors,custom-logo,custom-menu,editor-style,featured-images,translation-ready
+Copyright: © Jegstudio. All rights reserved.
+*/
+
+
+
+.editor-styles-wrapper .block-editor-block-list__layout.is-root-container > .block-library-block__reusable-block-container {
+    max-width: 100%;
+}
